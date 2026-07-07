@@ -1,0 +1,42 @@
+{
+  "identifier": "membercard",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Membercard Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "membercard_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks usage-per-cost tracking and cancellation reminders.",
+              "displayName": "Membercard Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "membercard_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Membercard Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
